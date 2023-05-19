@@ -1,0 +1,52 @@
+.wrap{
+    width: 1200px;
+    margin: 50px auto;
+}
+.all{
+    background-image: url("https://www.internetmatters.org/wp-content/uploads/2021/03/facebook-logo-new.png");
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position: 40px;
+}
+.all2{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 70px;
+}
+.all3 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n_urpJ9XpwOTdzBVbGvactwHrPagYQrTJPYjxfxLGkSyu7nJZVqRVGAeohnPgKMrnKE&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 70px;
+}
+.all4{
+    background-image: url("https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg");
+    background-repeat: no-repeat;
+    background-size: 12%;
+    background-position: 65px;
+}
+.form-group{
+    width: 450px;
+    margin: 200px auto;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    padding: 1rem 1.2rem;
+    box-sizing: border-box;
+}
+input{
+    width: 50%;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 10px ;
+}
+label {
+    width: 30%;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    text-align: right;
+    position: relative;
+}
